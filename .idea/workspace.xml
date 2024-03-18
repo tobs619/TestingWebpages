@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51559616-8358-45e4-b24a-e40b7fb91186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dgpA1YLqJawxuCKgINeg0udEg6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.example.executor": "Run",
+    "Application.safari.executor": "Run",
+    "JUnit.Safariweb.ValidateTitle.executor": "Run",
+    "JUnit.Safariweb.Validatelogins.executor": "Run",
+    "JUnit.Safariweb.executor": "Run",
+    "JUnit.Safariweb.selectmultiplevalues.executor": "Run",
+    "JUnit.Safariweb.selectvalue.executor": "Run",
+    "JUnit.Safariweb.useActionClass.executor": "Run",
+    "JUnit.Safariweb.useAlertMethods.executor": "Run",
+    "JUnit.Safariweb.useIframes.executor": "Run",
+    "JUnit.Safariweb.useJSExecutor.executor": "Run",
+    "JUnit.Safariweb.useMultipleWindows.executor": "Run",
+    "JUnit.Safariweb.useWebtables.executor": "Run",
+    "JUnit.Safariweb.useXpathAxes.executor": "Run",
+    "JUnit.Safariweb.useXpathmethods.executor": "Run",
+    "JUnit.Safariweb.usecookiesMethod.executor": "Run",
+    "JUnit.Safariweb.validatelogin.executor": "Run",
+    "JUnit.Safariweb.waitForElement.executor": "Run",
+    "JUnit.example.ValidateTitle.executor": "Run",
+    "JUnit.example.executor": "Run",
+    "JUnit.example.useActionClass.executor": "Run",
+    "JUnit.example.useAlertMethods.executor": "Run",
+    "JUnit.example.useIframes.executor": "Run",
+    "JUnit.example.useJSExecutor.executor": "Run",
+    "JUnit.example.useMultipleWindows.executor": "Run",
+    "JUnit.example.validatelogin.executor": "Run",
+    "JUnit.safari.ValidateTitle.executor": "Run",
+    "JUnit.safari.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/tk/IdeaProjects/SelTraining/src/test/resources",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Safariweb.ValidateTitle">
+    <configuration name="Safariweb.ValidateTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Safariweb" />
+      <option name="METHOD_NAME" value="ValidateTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Safariweb.selectmultiplevalues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Safariweb" />
+      <option name="METHOD_NAME" value="selectmultiplevalues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Safariweb.useIframes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Safariweb" />
+      <option name="METHOD_NAME" value="useIframes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Safariweb.useXpathAxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Safariweb" />
+      <option name="METHOD_NAME" value="useXpathAxes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Safariweb.useXpathmethods" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SelTraining" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Safariweb" />
+      <option name="METHOD_NAME" value="useXpathmethods" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Safariweb.ValidateTitle" />
+      <item itemvalue="JUnit.Safariweb.selectmultiplevalues" />
+      <item itemvalue="JUnit.Safariweb.useIframes" />
+      <item itemvalue="JUnit.Safariweb.useXpathAxes" />
+      <item itemvalue="JUnit.Safariweb.useXpathmethods" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Safariweb.ValidateTitle" />
+        <item itemvalue="JUnit.Safariweb.selectmultiplevalues" />
+        <item itemvalue="JUnit.Safariweb.useXpathmethods" />
+        <item itemvalue="JUnit.Safariweb.useXpathAxes" />
+        <item itemvalue="JUnit.Safariweb.useIframes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51559616-8358-45e4-b24a-e40b7fb91186" name="Changes" comment="" />
+      <created>1710439429738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710439429738</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.IOException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Safariweb.java</url>
+          <line>134</line>
+          <properties class="Safariweb" method="useAlertMethods">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/Safariweb.java</url>
+          <line>197</line>
+          <properties class="Safariweb" method="useJSExecutor">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SelTraining$Safariweb_validatelogin.ic" NAME="Safariweb.validatelogin Coverage Results" MODIFIED="1710604603888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
